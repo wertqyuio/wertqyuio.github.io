@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61c53a3c.chunk.css",
+    "main.js": "/static/js/main.c97e7575.chunk.js",
+    "main.js.map": "/static/js/main.c97e7575.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.c58b36c0.js",
+    "runtime~main.js.map": "/static/js/runtime~main.c58b36c0.js.map",
+    "static/js/2.cda2454f.chunk.js": "/static/js/2.cda2454f.chunk.js",
+    "static/js/2.cda2454f.chunk.js.map": "/static/js/2.cda2454f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.30c8a64f6da5a138f5d7c3eddfd66bcd.js": "/precache-manifest.30c8a64f6da5a138f5d7c3eddfd66bcd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.61c53a3c.chunk.css.map": "/static/css/main.61c53a3c.chunk.css.map",
+    "static/media/HomePage.css": "/static/media/Piefaceshowdown.6080a2cf.jpg"
+  }
+}
